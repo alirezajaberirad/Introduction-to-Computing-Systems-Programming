@@ -13,11 +13,7 @@ In phase 2, the entire game was designed and implemented. You can try compile an
 In this assignment, a program for finding and replacing a phrase in a text file was designed and implemented in the C language.
 
 ## CA3 - Restaurant Management System
-In this project, a program was designed and implemented which has a main menu that you can choose one of the branches:
-1. food
-2. orders
-3. customers
-4. exit
+In this project, a program was designed and implemented for managing a restaurant. The main menu of this program has three branches: 1. food, 2. orders, and 3. customers
 
 In the food branch, you can add any food that you want it to be in your food menu. Also, you can print the menu or search for food on the menu.
 
