@@ -1,8 +1,7 @@
-//Alireza JaberiRad   810196438
 #include"Header.h"
 
 
-int howmanychars(char word[50]) {
+int howmanychars(char word[50]) {//this function will count the number of the characters in word given to the program by user
 	int i = 0;
 	while (word[i] != NULL) {
 		i++;
@@ -11,7 +10,7 @@ int howmanychars(char word[50]) {
 	return i;
 }
 
-int textlength(FILE*text) {
+int textlength(FILE*text) {//this function will count the number of characters in the text file
 	int i=0;
 	char a[1];
 	while (!feof(text)) {
